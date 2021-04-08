@@ -32,5 +32,5 @@
 	- 群体用户画像之每月实时消费水平&用户每月实时消费标签
 
 
-[项目博文](https://blog.csdn.net/qq_44992559/category_10944129.html)
+[项目博文](https://blog.csdn.net/qq_44992559/category_10944129.html)\n
 [前端项目](https://github.com/Zhifa-Liu/UserPotraitVue)
